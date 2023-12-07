@@ -22,4 +22,4 @@
 
 Partie2 -
 
-[Lien vers le pdf contenant les captures d'écrans](/TP_1 Git - ChloeDelidais.pdf)
+[Lien vers le pdf contenant les captures d'écrans](TP_1 Git - ChloeDelidais.pdf)
